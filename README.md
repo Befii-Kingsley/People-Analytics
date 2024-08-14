@@ -141,5 +141,6 @@ This analysis provides a comprehensive overview of employee demographics, turnov
 3. Promote diversity initiatives to maintain balanced gender representation.
 4. Exit interviews for resigned employees can help address employee satisfaction and retention.
 
+😊 🙏 💛
 
 
