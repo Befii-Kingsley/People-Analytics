@@ -32,7 +32,7 @@ The primary objective of this HR Analytics project is to provide a comprehensive
 PostgreSQL was used to extract insights on the Active employees in the company . The insights extracted were gender distribution, Age distribution, Length of Service, Absenteeism rate and correlation between Length of Service and Absenteeism. The insights gotten were downloaded in different sheets in an MS Excel workbook and linked to Power Bi.
 
 ``` sql
--- Created the Database using:
+-- Created the Database called "HR_Analytics" using:
 
 CREATE DATABASE hr_analytics;
 
